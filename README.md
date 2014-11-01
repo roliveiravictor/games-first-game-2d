@@ -17,7 +17,7 @@ Tutorial: None
 
 ### How do I get set up? ###
 
-*N/A
+* N/A
 
 ### Contribution guidelines ###
 
