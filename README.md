@@ -8,8 +8,6 @@ Engine: Unity3D 4.5
 Programming Language: Javascript
 IDE: MonoDevelop
 
-Tutorial: None
-
 ### What is this repository for? ###
 
 * This is a backup code of my first game 2d ever developed
